@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AmsterdamTourr</string>
+    <string name="picture1">A beautiful view of one of Amsterdam\'s canals</string>
+    <string name="picture2">Another beautiful view of one of Amsterdam\'s canals</string>
+    <string name="picture3">....Amsterdam canal? But we have more! Just kidding, but all of them are still beautiful!</string>
+    <string name="picture4">A view from a walk through the central streets.</string>
+    <string name="picture5">An average night in Amsterdam</string>
+    <string name="picture6">Canaaals!</string>
+    <string name="LaCage">Old restaurant with english servings!(La Cage)</string>
+    <string name="ApartPub">Modern yet intriguing menu, only at ApartPub!</string>
+    <string name="Cafe_Panache">Never had a better coffee in my life!(Cafe Panache)</string>
+    <string name="MauroPub">Classical dutch servings for everyone(Mauro Pub)</string>
+    <string name="TheHarbourPub">Best pizza in town!(The Harbour Pub)</string>
+    <string name="title_activity_images">Images</string>
+<string name="GardenOfEurope">Garden of Europe</string>
+    <string name="ParkKeunkenhof">Park Keunkenhof</string>
+    <string name="SpringPark">Spring Park</string>
+    <string name="bicyclePark">And the tipical Amsterdam Park: Bicycle Park</string>
+<string name="UAS">The Hogeschool van Amsterdam, University of Applied Sciences (HvA), or Amsterdam University of Applied Sciences, is a large institute for higher professional education in the Netherlands. The HvA mainly offers bachelor\'s degree programmes, but also has a number of (professional) master\'s degree programmes. For students from the HvA\'s international partner institutes it is possible to study at the HvA as an exchange student.</string>
+   <string name="VU">Vrije Universiteit Amsterdam is a university in Amsterdam, Netherlands, founded in 1880. VU is one of two large, publicly funded research universities in the city, the other being the University of Amsterdam (UvA).The literal translation of the Dutch name Vrije Universiteit is "Free University". "Free" refers to independence of the university from both the State and Church.</string>
+    <string name="UVA">The University of Amsterdam is a public university located in Amsterdam, Netherlands. Established in 1632 by municipal authorities and later renamed for the city of Amsterdam, the University of Amsterdam is the third-oldest university in the Netherlands.</string>
+</resources>
